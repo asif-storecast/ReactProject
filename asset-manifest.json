@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ReactProject/static/css/main.5556008e.css",
+    "main.js": "/ReactProject/static/js/main.a998cd8d.js",
+    "static/js/592.f8ca1625.chunk.js": "/ReactProject/static/js/592.f8ca1625.chunk.js",
+    "static/media/game_over.wav": "/ReactProject/static/media/game_over.3894918f7585f9300350.wav",
+    "static/media/click.wav": "/ReactProject/static/media/click.450b31dca5ff2247781d.wav",
+    "index.html": "/ReactProject/index.html",
+    "main.5556008e.css.map": "/ReactProject/static/css/main.5556008e.css.map",
+    "main.a998cd8d.js.map": "/ReactProject/static/js/main.a998cd8d.js.map",
+    "592.f8ca1625.chunk.js.map": "/ReactProject/static/js/592.f8ca1625.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5556008e.css",
+    "static/js/main.a998cd8d.js"
+  ]
+}
